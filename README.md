@@ -3,7 +3,7 @@ Source code for Trimp Studio, a modification of Scratch 1.4.
 `Steven.svg` originates from those videos you see on [Zack Bone Productions](https://www.youtube.com/c/ZackBoneProductions).
 
 # How to use Trimp (for now)
-1. Download the source code
+1. [Download the source code](https://github.com/TrimpApp/Studio/archive/refs/heads/master.zip)
 2. Open "TrimpStudio.exe"
 3. Enjoy!
 
