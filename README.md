@@ -4,7 +4,8 @@ Source code for Trimp Studio, a modification of Scratch 1.4.
 
 # How to use Trimp (for now)
 1. [Download the source code](https://github.com/TrimpApp/Studio/archive/refs/heads/master.zip)
-2. Open "TrimpStudio.exe"
-3. Enjoy!
+2. Extract the .zip file
+3. Open "TrimpStudio.exe"
+4. Enjoy!
 
 Trimp Studio doesn't officially support SqueakJS yet. It will support SqueakJS when there's a way to get the computer's files when clicking "File > Open", or "Import" (in the "Costumes" or "Sounds" sections) in Squeak that can work with SqueakJS.
